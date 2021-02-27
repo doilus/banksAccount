@@ -1,4 +1,4 @@
-# PPJ task 9 
+# Bank Accounts
 Defniujemy jedno wyliczenie i trzy C-struktury
 
 ```c++
